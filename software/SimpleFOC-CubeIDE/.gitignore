@@ -1,0 +1,14 @@
+
+Debug
+Release
+.settings
+spec.d
+
+CMSIS
+Simple_FOC
+STM32
+
+*.zip
+*.tar.bz2
+
+tmp

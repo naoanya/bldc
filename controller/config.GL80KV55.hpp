@@ -3,7 +3,7 @@
 //
 
 #define POLE_PAIR                   (14)
-#define PHASE_RESISTANCE            (0.65)	// Phase to Phase resistance (Ω) 1.2 / 2 = 0.6 (実測は1.3 ~ 1.4 だったので 6.5 にしてみた。)
+#define PHASE_RESISTANCE            (0.65)	// Phase to Phase resistance (Ω) 1.2 / 2 = 0.6
 
 #define ROT_SENSE_TYPE              ROT_SENSE_TYPE_ENCODER
 

@@ -53,6 +53,10 @@
   <img src="pic/NANO_SFOC/nanosfoc_photo_4.jpg" height="170px"> 
 </p>
 
+### Youtube Video
+
+[![alt text](http://img.youtube.com/vi/Je9ndPdHUeQ/0.jpg)](https://www.youtube.com/watch?v=Je9ndPdHUeQ "title")
+
 ### Arduino Setup
 
 * Install the Arduino board support package for the STM32.

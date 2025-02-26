@@ -11,6 +11,8 @@
   <img src="pic/BLDCStand_B-G431B-ESC1+MN1005/photo_5.jpg" height="170px">
 </p>
 
+[![alt text](http://img.youtube.com/vi/ndlJ5Nt8iBA/0.jpg)](https://www.youtube.com/watch?v=ndlJ5Nt8iBA "title")
+
 ### Arduino Setup
 
 * Install the Arduino board support package for the STM32.
@@ -42,7 +44,12 @@
 >   * It seems that there are multiple variations of the board. I'm not sure the following information is applicable to all versions.
 >   * Use at your own risk.
 
-<p align=""> <img src="pic/NANO_SFOC/nanosfoc_photo_1.jpg" height="170px"> <img src="pic/NANO_SFOC/nanosfoc_photo_2.jpg" height="170px"> <img src="pic/NANO_SFOC/nanosfoc_photo_3.jpg" height="170px"> <img src="pic/NANO_SFOC/nanosfoc_photo_4.jpg" height="170px"> </p>
+<p align="">
+  <img src="pic/NANO_SFOC/nanosfoc_photo_1.jpg" height="170px"> 
+  <img src="pic/NANO_SFOC/nanosfoc_photo_2.jpg" height="170px"> 
+  <img src="pic/NANO_SFOC/nanosfoc_photo_3.jpg" height="170px"> 
+  <img src="pic/NANO_SFOC/nanosfoc_photo_4.jpg" height="170px"> 
+</p>
 
 ### Arduino Setup
 
@@ -75,7 +82,11 @@
 
 ### Miscellaneous
 
-<p align=""> <img src="pic/NANO_SFOC/nanosfoc_front.jpg" height="170px"> <img src="pic/NANO_SFOC/nanosfoc_back.jpg" height="170px"> <img src="pic/NANO_SFOC/nanosfoc_circuit.jpg" height="170px"> </p>
+<p align=""> 
+  <img src="pic/NANO_SFOC/nanosfoc_front.jpg" height="170px">
+  <img src="pic/NANO_SFOC/nanosfoc_back.jpg" height="170px"> 
+  <img src="pic/NANO_SFOC/nanosfoc_circuit.jpg" height="170px"> 
+</p>
 
 # SimpleFOC Command Cheet Sheet
 
